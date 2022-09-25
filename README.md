@@ -52,6 +52,8 @@
 
 When a student arrives at a new university, he or she usually knows little or nothing about the city. This asymmetry of information can generate a real obstacle in the search for the most appropriate collocation. With this in mind, we decided to create the CollocMap. This web app allows you to find in a few clicks the flatshare offers that correspond the most to your quality of life criteria: public transportation services, the offer of food supermarkets, the number of bars and parks nearby or even the political affiliation of your neighborhood.
 
+The original repository can be found <a href="https://github.com/juustcrnt/group-project-DS">here</a>
+
 ### Built With
 
 The tool is built in several parts, each dealing with a part of the data science course: 
